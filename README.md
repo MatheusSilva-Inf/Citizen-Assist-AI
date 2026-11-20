@@ -136,7 +136,7 @@ Pesquisa feita em 12/11/2026. Cada orientação traz a fonte oficial e a data em
 
 ## 11. Vídeo técnico
 
-Link: **[(https://youtu.be/6qi5W1Cfo7A)]**
+Link: **(https://youtu.be/6qi5W1Cfo7A)**
 
 
 ## 12.a Energia (SERS)
@@ -147,7 +147,7 @@ Link: **[(https://youtu.be/6qi5W1Cfo7A)]**
 
 **Pergunta respondida:** Para atender a mesma necessidade, vale mais manter o consumo atual, adotar medidas de eficiência (desligar o que está ocioso e trocar a lâmpada por LED) ou olhar para a geração solar fotovoltaica (fonte renovável)?
 
-link do vídeo específico de SERS: **[(https://youtu.be/wD4TloDzDIo)]**
+link do vídeo específico de SERS: **(https://youtu.be/wD4TloDzDIo)**
 
 ## 12.b Funcionalidades de energia
 
