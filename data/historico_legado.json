@@ -1,0 +1,189 @@
+[
+  {
+    "data": "2026-11-12 12:05:16",
+    "origem": "pergunta",
+    "pergunta": "Sus",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.6,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-13 14:22:40",
+    "origem": "pergunta",
+    "pergunta": "Como emitir a Carteira de Trabalho Digital?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 17.0,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-13 14:24:50",
+    "origem": "pergunta",
+    "pergunta": "trocar a senha do gov.br",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 3,
+    "tempo_segundos": 51.0,
+    "nota_facilidade": 3
+  },
+  {
+    "data": "2026-11-13 14:26:34",
+    "origem": "pergunta",
+    "pergunta": "ver saldo do fgts",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 31.0,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-14 13:38:46",
+    "origem": "pergunta",
+    "pergunta": "como economizar enegria no trabalho?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 4,
+    "tempo_segundos": 684.1,
+    "nota_facilidade": null
+  },
+  {
+    "data": "2026-11-14 13:41:25",
+    "origem": "pergunta",
+    "pergunta": "comno economizar energia no trabalho",
+    "id_orientacao": 18,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 11.6,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-14 13:42:41",
+    "origem": "pergunta",
+    "pergunta": "Quanto um notebook de 65 W consome em 8 horas diárias?",
+    "id_orientacao": 16,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 6,
+    "tempo_segundos": 46.5,
+    "nota_facilidade": 2
+  },
+  {
+    "data": "2026-11-14 13:43:58",
+    "origem": "pergunta",
+    "pergunta": "como funciona energia solar",
+    "id_orientacao": 14,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 5.5,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-14 13:45:05",
+    "origem": "pergunta",
+    "pergunta": "como comparar equipamentos pela eficiência energética?",
+    "id_orientacao": 20,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 19.4,
+    "nota_facilidade": 4
+  },
+  {
+    "data": "2026-11-16 16:44:17",
+    "origem": "pergunta",
+    "pergunta": "como fazer uma denúncia trabalhista?",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 3.1,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-16 16:46:02",
+    "origem": "pergunta",
+    "pergunta": "com quantos anos já pode tirar o titulo de eleitor?",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 3.2,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-16 16:47:20",
+    "origem": "pergunta",
+    "pergunta": "como tirar a segunda via do cpf?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 4.4,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-19 17:12:18",
+    "origem": "pergunta",
+    "pergunta": "como trocar a senha do gov?",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 31.8,
+    "nota_facilidade": null
+  },
+  {
+    "data": "2026-11-19 17:15:12",
+    "origem": "pergunta",
+    "pergunta": "Com quantos anos pode-se fazer menor aprendiz?",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 23.5,
+    "nota_facilidade": 5
+  },
+  {
+    "data": "2026-11-19 17:22:14",
+    "origem": "pergunta",
+    "pergunta": "criar um gov?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 2.1,
+    "nota_facilidade": null
+  },
+  {
+    "data": "2026-11-19 17:22:53",
+    "origem": "pergunta",
+    "pergunta": "como cria um gov?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 9.3,
+    "nota_facilidade": null
+  },
+  {
+    "data": "2026-11-19 17:23:17",
+    "origem": "pergunta",
+    "pergunta": "como cria um gov?",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.4,
+    "nota_facilidade": 5
+  }
+]

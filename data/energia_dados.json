@@ -1,0 +1,74 @@
+
+{
+  "versao": 1,
+  "contexto": "Cenário estimado de uma pessoa em início de carreira que utiliza um home office em casa.",
+  "periodo_referencia": "1 mês de 22 dias úteis",
+  "referencia": {
+    "potencia_notebook_w": 65,
+    "potencia_monitor_w": 30,
+    "potencia_lampada_w": 40,
+    "potencia_led_w": 9,
+    "horas_dia": 8,
+    "dias_mes": 22,
+    "horas_ociosas_dia": 1,
+    "tarifa_kwh": 1.0,
+    "solar_kwh_por_kwp_mes": 120,
+    "solar_referencia_kwp": 2.0,
+    "solar_preco_medio_rpw": 3.62,
+    "data_referencia_solar": "junho de 2026",
+    "preco_led_reais": 15.0
+  },
+  "premissas": [
+    "As potências são valores estimados e devem ser substituídas pelas potências reais dos equipamentos.",
+    "O usuário trabalha 8 horas por dia, durante 22 dias por mês.",
+    "O período ocioso considera o computador e o monitor desligados ou em modo de suspensão de baixo consumo.",
+    "A alternativa eficiente substitui uma lâmpada de 40 W por uma LED de 9 W.",
+    "A tarifa de R$ 1,00/kWh é ilustrativa e editável.",
+    "A geração solar considera aproximadamente 120 kWh/mês por kWp.",
+    "A geração real depende da localização, orientação, sombra, clima e perdas do sistema.",
+    "O preço de R$ 3,62/Wp é uma referência de mercado para sistemas residenciais de 2 kWp, não uma cotação.",
+    "O sistema solar deve ser dimensionado considerando o consumo total da residência.",
+    "O preço de R$ 15,00 da lâmpada LED é uma hipótese didática editável."
+  ],
+  "fontes": [
+    {
+      "instituicao": "Empresa de Pesquisa Energética (EPE)",
+      "titulo": "PDE 2036 - Caderno de Eficiência Energética e Recursos Energéticos Distribuídos",
+      "data": "04/11/2026",
+      "pagina": 23,
+      "url": "https://epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-982/topico-851/PDE%202036_Caderno%20Efici%C3%AAncia%20e%20RED_v1_2026-11-04.pdf"
+    },
+    {
+      "instituicao": "Greener",
+      "titulo": "Estudo Estratégico - Soluções Energéticas Distribuídas, 1º semestre de 2026",
+      "data": "junho de 2026",
+      "pagina": 46,
+      "url": "https://greenerstorage.blob.core.windows.net/public/estudos/SED_2S_2026.pdf"
+    },
+    {
+      "instituicao": "ANEEL",
+      "titulo": "Micro e Minigeração Distribuída",
+      "data": "09/06/2026",
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/geracao-distribuida"
+    },
+    {
+      "instituicao": "Inmetro",
+      "titulo": "Eficiência Energética: dicas para reduzir o consumo e economizar na conta de luz",
+      "data": "29/10/2026",
+      "url": "https://www.gov.br/inmetro/pt-br/centrais-de-conteudo/noticias/2026/dia-mundial-da-eficiencia-energetica-inmetro-da-dicas-para-reduzir-o-consumo-e-economizar-na-conta-de-luz"
+    },
+    {
+      "instituicao": "Inmetro",
+      "titulo": "Lâmpadas - tabelas de eficiência energética e Sistema PBE",
+      "data": "13/07/2026",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/lampadas"
+    },
+    {
+      "instituicao": "IRENA e IEA-PVPS",
+      "titulo": "End-of-Life Management: Solar Photovoltaic Panels",
+      "data": "junho de 2016",
+      "paginas": "11 e 47–57",
+      "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2016/IRENA_IEAPVPS_End-of-Life_Solar_PV_Panels_2016.pdf"
+    }
+  ]
+}
